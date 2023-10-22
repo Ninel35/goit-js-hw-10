@@ -1,0 +1,12 @@
+.cat-info {
+  display: flex;
+  gap: 20px;
+}
+.cat-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.desc {
+  width: 500px;
+}
